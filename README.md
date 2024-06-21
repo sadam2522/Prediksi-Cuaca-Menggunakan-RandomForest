@@ -27,7 +27,7 @@ Proyek ini bertujuan untuk memprediksi kondisi cuaca menggunakan algoritma Rando
 # Penggunaan
 Untuk menggunakan proyek ini, pastikan Anda memiliki Python yang terpasang bersama dengan pustaka-pustaka seperti scikit-learn, pandas, dan numpy. Berikut adalah langkah-langkah umum untuk menjalankan proyek:
 
-1. Clone repositori ini ke dalam komputer lokal Anda.
+1. Clone repositori ini ke dalam komputer lokal Anda " git clone https://github.com/sadam2522/Prediksi-Cuaca-Menggunakan-RandomForest.git ".
 2. Instal semua dependensi yang diperlukan dengan menjalankan perintah pip install -r requirements.txt.
 3. Persiapkan data cuaca historis atau gunakan dataset yang sudah ada.
 4. Jalankan notebook atau script untuk memproses data, melatih model, dan mengevaluasi hasil prediksi.
